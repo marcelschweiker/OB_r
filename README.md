@@ -1,2 +1,2 @@
 # OB_r
-R-code for Thermal Comfort Research 
+R-functions for the analysis of occupant behavioural data
